@@ -1,4 +1,5 @@
 name = input("What's your name? ")
 lastname = input("What's your lastname? ")
-print(name, lastname)
+years = int(input("¿How old are you? "))
+print(f"Hola me llamo {name} {lastname} y tengo {years} años.")
 
