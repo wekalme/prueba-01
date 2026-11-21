@@ -1,2 +1,4 @@
 name = input("What's your name? ")
-print(name)
+lastname = input("What's your lastname? ")
+print(name, lastname)
+
